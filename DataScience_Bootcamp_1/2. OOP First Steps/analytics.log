@@ -1,0 +1,245 @@
+2025-12-03 11:32:36 Logging system initialized
+2025-12-03 11:33:52 Logging system initialized
+2025-12-03 11:33:52 Starting report generation...
+2025-12-03 11:33:52 Initializing Research class
+2025-12-03 11:33:52 No file path provided, using default 'data.csv'
+2025-12-03 11:33:52 Header detected: head,tail
+
+2025-12-03 11:33:52 Research initialized with file: ../ex00/data.csv
+2025-12-03 11:33:52 Reading file: ../ex00/data.csv
+2025-12-03 11:33:52 Read 12 lines from file
+2025-12-03 11:33:52 Successfully read and validated 11 data lines
+2025-12-03 11:33:52 Successfully read 12 lines from file
+2025-12-03 11:33:52 Analyzing 11 data points
+2025-12-03 11:33:52 Initializing Analytics class with data
+2025-12-03 11:33:52 Initializing Calculations class with data
+2025-12-03 11:33:52 Calculating the counts of heads and tails
+2025-12-03 11:33:52 Heads: 5, Tails: 6
+2025-12-03 11:33:52 Counts calculated: (5, 6)
+2025-12-03 11:33:52 Analytics initialized with 11 data points
+2025-12-03 11:33:52 Analytics instance created
+2025-12-03 11:33:52 Calculating fractions of heads and tails
+2025-12-03 11:33:52 Fractions: heads=0.4545, tails=0.5455
+2025-12-03 11:33:52 Statistics: observations=11, heads=5, tails=6
+2025-12-03 11:33:52 Fractions: heads=0.4545, tails=0.5455
+2025-12-03 11:33:52 Generating 3 random predictions
+2025-12-03 11:33:52 Prediction 1: heads=1, tails=0
+2025-12-03 11:33:52 Prediction 2: heads=0, tails=1
+2025-12-03 11:33:52 Prediction 3: heads=0, tails=1
+2025-12-03 11:33:52 Generated 3 predictions
+2025-12-03 11:33:52 Generated 3 predictions
+2025-12-03 11:33:52 Formatting forecast for report
+2025-12-03 11:33:52 Formatted forecast: two tails and one heads
+2025-12-03 11:33:52 Report template populated
+2025-12-03 11:33:52 Saving data to file: report.txt
+2025-12-03 11:33:52 File saved successfully: report.txt
+2025-12-03 11:33:52 Report saved to report.txt
+2025-12-03 11:33:52 Attempting to send Telegram message
+2025-12-03 11:33:52 Starting new HTTPS connection (1): api.telegram.org:443
+2025-12-03 11:33:55 https://api.telegram.org:443 "POST /bot8333509939:AAESbsP1BMHNxEUeluygomuJt9XrCM_uAN4/sendMessage HTTP/1.1" 400 73
+2025-12-03 11:33:55 Failed to send Telegram message: 400 Client Error: Bad Request for url: https://api.telegram.org/bot8333509939:AAESbsP1BMHNxEUeluygomuJt9XrCM_uAN4/sendMessage
+2025-12-03 11:33:55 Failed to send success notification to Telegram
+2025-12-03 11:33:55 Report generation completed SUCCESSFULLY!
+2025-12-03 11:34:18 Logging system initialized
+2025-12-03 11:34:18 Starting report generation...
+2025-12-03 11:34:18 Initializing Research class
+2025-12-03 11:34:18 No file path provided, using default 'data.csv'
+2025-12-03 11:34:18 Header detected: head,tail
+
+2025-12-03 11:34:18 Research initialized with file: ../ex00/data.csv
+2025-12-03 11:34:18 Reading file: ../ex00/data.csv
+2025-12-03 11:34:18 Read 12 lines from file
+2025-12-03 11:34:18 Successfully read and validated 11 data lines
+2025-12-03 11:34:18 Successfully read 12 lines from file
+2025-12-03 11:34:18 Analyzing 11 data points
+2025-12-03 11:34:18 Initializing Analytics class with data
+2025-12-03 11:34:18 Initializing Calculations class with data
+2025-12-03 11:34:18 Calculating the counts of heads and tails
+2025-12-03 11:34:18 Heads: 5, Tails: 6
+2025-12-03 11:34:18 Counts calculated: (5, 6)
+2025-12-03 11:34:18 Analytics initialized with 11 data points
+2025-12-03 11:34:18 Analytics instance created
+2025-12-03 11:34:18 Calculating fractions of heads and tails
+2025-12-03 11:34:18 Fractions: heads=0.4545, tails=0.5455
+2025-12-03 11:34:18 Statistics: observations=11, heads=5, tails=6
+2025-12-03 11:34:18 Fractions: heads=0.4545, tails=0.5455
+2025-12-03 11:34:18 Generating 3 random predictions
+2025-12-03 11:34:18 Prediction 1: heads=0, tails=1
+2025-12-03 11:34:18 Prediction 2: heads=1, tails=0
+2025-12-03 11:34:18 Prediction 3: heads=0, tails=1
+2025-12-03 11:34:18 Generated 3 predictions
+2025-12-03 11:34:18 Generated 3 predictions
+2025-12-03 11:34:18 Formatting forecast for report
+2025-12-03 11:34:18 Formatted forecast: two tails and one heads
+2025-12-03 11:34:18 Report template populated
+2025-12-03 11:34:18 Saving data to file: report.txt
+2025-12-03 11:34:18 File saved successfully: report.txt
+2025-12-03 11:34:18 Report saved to report.txt
+2025-12-03 11:34:18 Attempting to send Telegram message
+2025-12-03 11:34:18 Starting new HTTPS connection (1): api.telegram.org:443
+2025-12-03 11:34:18 https://api.telegram.org:443 "POST /bot8333509939:AAESbsP1BMHNxEUeluygomuJt9XrCM_uAN4/sendMessage HTTP/1.1" 400 73
+2025-12-03 11:34:18 Failed to send Telegram message: 400 Client Error: Bad Request for url: https://api.telegram.org/bot8333509939:AAESbsP1BMHNxEUeluygomuJt9XrCM_uAN4/sendMessage
+2025-12-03 11:34:18 Failed to send success notification to Telegram
+2025-12-03 11:34:18 Report generation completed SUCCESSFULLY!
+2025-12-03 11:36:50 Logging system initialized
+2025-12-03 11:36:50 Starting report generation...
+2025-12-03 11:36:50 Initializing Research class
+2025-12-03 11:36:50 No file path provided, using default 'data.csv'
+2025-12-03 11:36:50 Header detected: head,tail
+
+2025-12-03 11:36:50 Research initialized with file: ../ex00/data.csv
+2025-12-03 11:36:50 Reading file: ../ex00/data.csv
+2025-12-03 11:36:50 Read 12 lines from file
+2025-12-03 11:36:50 Successfully read and validated 11 data lines
+2025-12-03 11:36:50 Successfully read 12 lines from file
+2025-12-03 11:36:50 Analyzing 11 data points
+2025-12-03 11:36:50 Initializing Analytics class with data
+2025-12-03 11:36:50 Initializing Calculations class with data
+2025-12-03 11:36:50 Calculating the counts of heads and tails
+2025-12-03 11:36:50 Heads: 5, Tails: 6
+2025-12-03 11:36:50 Counts calculated: (5, 6)
+2025-12-03 11:36:50 Analytics initialized with 11 data points
+2025-12-03 11:36:50 Analytics instance created
+2025-12-03 11:36:50 Calculating fractions of heads and tails
+2025-12-03 11:36:50 Fractions: heads=0.4545, tails=0.5455
+2025-12-03 11:36:50 Statistics: observations=11, heads=5, tails=6
+2025-12-03 11:36:50 Fractions: heads=0.4545, tails=0.5455
+2025-12-03 11:36:50 Generating 3 random predictions
+2025-12-03 11:36:50 Prediction 1: heads=1, tails=0
+2025-12-03 11:36:50 Prediction 2: heads=1, tails=0
+2025-12-03 11:36:50 Prediction 3: heads=0, tails=1
+2025-12-03 11:36:50 Generated 3 predictions
+2025-12-03 11:36:50 Generated 3 predictions
+2025-12-03 11:36:50 Formatting forecast for report
+2025-12-03 11:36:50 Formatted forecast: one tail and two head
+2025-12-03 11:36:50 Report template populated
+2025-12-03 11:36:50 Saving data to file: report.txt
+2025-12-03 11:36:50 File saved successfully: report.txt
+2025-12-03 11:36:50 Report saved to report.txt
+2025-12-03 11:36:50 Attempting to send Telegram message
+2025-12-03 11:36:50 Starting new HTTPS connection (1): api.telegram.org:443
+2025-12-03 11:36:51 https://api.telegram.org:443 "POST /bot8333509939:AAESbsP1BMHNxEUeluygomuJt9XrCM_uAN4/sendMessage HTTP/1.1" 200 371
+2025-12-03 11:36:51 Telegram message sent successfully: The report has been successfully created
+2025-12-03 11:36:51 Success notification sent to Telegram
+2025-12-03 11:36:51 Report generation completed SUCCESSFULLY!
+2025-12-03 11:38:25 Logging system initialized
+2025-12-03 11:38:25 Starting report generation...
+2025-12-03 11:38:25 Initializing Research class
+2025-12-03 11:38:25 No file path provided, using default 'data.csv'
+2025-12-03 11:38:25 Header detected: head,tail
+
+2025-12-03 11:38:25 Research initialized with file: ../ex00/data.csv
+2025-12-03 11:38:25 Reading file: ../ex00/data.csv
+2025-12-03 11:38:25 Read 12 lines from file
+2025-12-03 11:38:25 Successfully read and validated 11 data lines
+2025-12-03 11:38:25 Successfully read 12 lines from file
+2025-12-03 11:38:25 Analyzing 11 data points
+2025-12-03 11:38:25 Initializing Analytics class with data
+2025-12-03 11:38:25 Initializing Calculations class with data
+2025-12-03 11:38:25 Calculating the counts of heads and tails
+2025-12-03 11:38:25 Heads: 5, Tails: 6
+2025-12-03 11:38:25 Counts calculated: (5, 6)
+2025-12-03 11:38:25 Analytics initialized with 11 data points
+2025-12-03 11:38:25 Analytics instance created
+2025-12-03 11:38:25 Calculating fractions of heads and tails
+2025-12-03 11:38:25 Fractions: heads=0.4545, tails=0.5455
+2025-12-03 11:38:25 Statistics: observations=11, heads=5, tails=6
+2025-12-03 11:38:25 Fractions: heads=0.4545, tails=0.5455
+2025-12-03 11:38:25 Generating 3 random predictions
+2025-12-03 11:38:25 Prediction 1: heads=1, tails=0
+2025-12-03 11:38:25 Prediction 2: heads=1, tails=0
+2025-12-03 11:38:25 Prediction 3: heads=0, tails=1
+2025-12-03 11:38:25 Generated 3 predictions
+2025-12-03 11:38:25 Generated 3 predictions
+2025-12-03 11:38:25 Formatting forecast for report
+2025-12-03 11:38:25 Formatted forecast: one tail and two heads
+2025-12-03 11:38:25 Report template populated
+2025-12-03 11:38:25 Saving data to file: report.txt
+2025-12-03 11:38:25 File saved successfully: report.txt
+2025-12-03 11:38:25 Report saved to report.txt
+2025-12-03 11:38:25 Attempting to send Telegram message
+2025-12-03 11:38:25 Starting new HTTPS connection (1): api.telegram.org:443
+2025-12-03 11:38:26 https://api.telegram.org:443 "POST /bot8333509939:AAESbsP1BMHNxEUeluygomuJt9XrCM_uAN4/sendMessage HTTP/1.1" 200 371
+2025-12-03 11:38:26 Telegram message sent successfully: The report has been successfully created
+2025-12-03 11:38:26 Success notification sent to Telegram
+2025-12-03 11:38:26 Report generation completed SUCCESSFULLY!
+2025-12-23 14:09:43 Logging system initialized
+2025-12-23 14:09:43 Starting report generation...
+2025-12-23 14:09:43 Initializing Research class
+2025-12-23 14:09:43 Header detected: head,tail
+
+2025-12-23 14:09:43 Research initialized with file: ..\ex00\data.csv
+2025-12-23 14:09:43 Reading file: ..\ex00\data.csv
+2025-12-23 14:09:43 Read 12 lines from file
+2025-12-23 14:09:43 Successfully read and validated 11 data lines
+2025-12-23 14:09:43 Successfully read 12 lines from file
+2025-12-23 14:09:43 Analyzing 11 data points
+2025-12-23 14:09:43 Initializing Analytics class with data
+2025-12-23 14:09:43 Initializing Calculations class with data
+2025-12-23 14:09:43 Calculating the counts of heads and tails
+2025-12-23 14:09:43 Heads: 5, Tails: 6
+2025-12-23 14:09:43 Counts calculated: (5, 6)
+2025-12-23 14:09:43 Analytics initialized with 11 data points
+2025-12-23 14:09:43 Analytics instance created
+2025-12-23 14:09:43 Calculating fractions of heads and tails
+2025-12-23 14:09:43 Fractions: heads=0.4545, tails=0.5455
+2025-12-23 14:09:43 Statistics: observations=11, heads=5, tails=6
+2025-12-23 14:09:43 Fractions: heads=0.4545, tails=0.5455
+2025-12-23 14:09:43 Generating 3 random predictions
+2025-12-23 14:09:43 Prediction 1: heads=0, tails=1
+2025-12-23 14:09:43 Prediction 2: heads=0, tails=1
+2025-12-23 14:09:43 Prediction 3: heads=0, tails=1
+2025-12-23 14:09:43 Generated 3 predictions
+2025-12-23 14:09:43 Generated 3 predictions
+2025-12-23 14:09:43 Formatting forecast for report
+2025-12-23 14:09:43 Formatted forecast: three tails
+2025-12-23 14:09:43 Report template populated
+2025-12-23 14:09:43 Saving data to file: report.txt
+2025-12-23 14:09:43 File saved successfully: report.txt
+2025-12-23 14:09:43 Report saved to report.txt
+2025-12-23 14:09:43 Attempting to send Telegram message
+2025-12-23 14:09:43 Starting new HTTPS connection (1): api.telegram.org:443
+2025-12-23 14:09:44 https://api.telegram.org:443 "POST /bot8333509939:AAESbsP1BMHNxEUeluygomuJt9XrCM_uAN4/sendMessage HTTP/1.1" 200 371
+2025-12-23 14:09:44 Telegram message sent successfully: The report has been successfully created
+2025-12-23 14:09:44 Success notification sent to Telegram
+2025-12-23 14:09:44 Report generation completed SUCCESSFULLY!
+2025-12-23 14:14:59 Logging system initialized
+2025-12-23 14:14:59 Starting report generation...
+2025-12-23 14:14:59 Initializing Research class
+2025-12-23 14:14:59 Header detected: head,tail
+
+2025-12-23 14:14:59 Research initialized with file: ..\ex00\data.csv
+2025-12-23 14:14:59 Reading file: ..\ex00\data.csv
+2025-12-23 14:14:59 Read 12 lines from file
+2025-12-23 14:14:59 Successfully read and validated 11 data lines
+2025-12-23 14:14:59 Successfully read 12 lines from file
+2025-12-23 14:14:59 Analyzing 11 data points
+2025-12-23 14:14:59 Initializing Analytics class with data
+2025-12-23 14:14:59 Initializing Calculations class with data
+2025-12-23 14:14:59 Calculating the counts of heads and tails
+2025-12-23 14:14:59 Heads: 5, Tails: 6
+2025-12-23 14:14:59 Counts calculated: (5, 6)
+2025-12-23 14:14:59 Analytics initialized with 11 data points
+2025-12-23 14:14:59 Analytics instance created
+2025-12-23 14:14:59 Calculating fractions of heads and tails
+2025-12-23 14:14:59 Fractions: heads=0.4545, tails=0.5455
+2025-12-23 14:14:59 Statistics: observations=11, heads=5, tails=6
+2025-12-23 14:14:59 Fractions: heads=0.4545, tails=0.5455
+2025-12-23 14:14:59 Generating 3 random predictions
+2025-12-23 14:14:59 Prediction 1: heads=0, tails=1
+2025-12-23 14:14:59 Prediction 2: heads=0, tails=1
+2025-12-23 14:14:59 Prediction 3: heads=0, tails=1
+2025-12-23 14:14:59 Generated 3 predictions
+2025-12-23 14:14:59 Generated 3 predictions
+2025-12-23 14:14:59 Formatting forecast for report
+2025-12-23 14:14:59 Formatted forecast: three tails
+2025-12-23 14:14:59 Report template populated
+2025-12-23 14:14:59 Saving data to file: report.txt
+2025-12-23 14:14:59 File saved successfully: report.txt
+2025-12-23 14:14:59 Report saved to report.txt
+2025-12-23 14:14:59 Attempting to send Telegram message
+2025-12-23 14:14:59 Starting new HTTPS connection (1): api.telegram.org:443
+2025-12-23 14:14:59 https://api.telegram.org:443 "POST /bot8333509939:AAESbsP1BMHNxEUeluygomuJt9XrCM_uAN4/sendMessage HTTP/1.1" 200 371
+2025-12-23 14:14:59 Telegram message sent successfully: The report has been successfully created
+2025-12-23 14:14:59 Success notification sent to Telegram
+2025-12-23 14:14:59 Report generation completed SUCCESSFULLY!
